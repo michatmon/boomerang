@@ -85,7 +85,7 @@
   "scripts": {
     "test": "grunt test",
     "lint": "grunt lint",
-    "build": "grunt build"
+    "build": "grunt clean build"
   },
   "repository": {
     "type": "git",
